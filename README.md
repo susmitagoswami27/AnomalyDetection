@@ -4,4 +4,17 @@ This Repository explores different machine learning algorithms for data cleaning
 This repository also includes files to create dummy multivariate weather data and apply all the methods as client data in proprietary.
 Along with that the repository also shows different visualization mechanisms as well as statistical analysis of the results. 
 
+# Package Requirements
+ 1. Python
+ 2. Pyod
+ 3. Tensorflow
+ 4. Pandas
+ 5. Scikit-learn
+ 6. Numpy
+ 7. Matplotlib
+ 8. Seaborn
+ 9. Plotly
+ 10. PyQt
 
+# Notebooks and Descriptions
+1. **Name**  : 
