@@ -17,4 +17,4 @@ Along with that the repository also shows different visualization mechanisms as 
  10. PyQt
 
 # Notebooks and Descriptions
-1. **Name**  : 
+1. **Synthetic_datacreation_and_anomalyinjection**  : 
